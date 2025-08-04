@@ -4,6 +4,3 @@ venv/
 
 # Python temporary files
 *.pyc
-
-# Private files / folders
-conferences/
